@@ -44,11 +44,10 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           </div>
           <div class="flex-1">
             <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">Social Commerce</div>
-            <div class="text-[11px] font-semibold text-white/55 mt-[5px] tracking-[.06em] uppercase">5 módulos</div>
+            <div class="text-[11px] font-semibold text-white/55 mt-[5px] tracking-[.06em] uppercase">4 módulos</div>
           </div>
         </div>
         <div class="px-7 py-[22px] flex-1 bg-white">
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Busca, compra e pedido via chat</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Associação e indicação com vínculo à Hub</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Social Sharing com cartões e deep links</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Vitrine Web e página pública da Hub</div>
