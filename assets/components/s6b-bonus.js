@@ -28,7 +28,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           </div>
           <div>
             <div class="text-[13px] font-bold text-[#1B5E20]">Presença digital imediata</div>
-            <div class="text-[11.5px] text-[#5C6E64] mt-[2px] leading-[1.4]">Seu condomínio online enquanto o app é desenvolvido</div>
+            <div class="text-[11.5px] text-[#5C6E64] mt-[2px] leading-[1.4]">Sua vitrine online enquanto a plataforma é desenvolvida</div>
           </div>
         </div>
         <div class="flex items-center gap-[14px] px-[18px] py-[14px] bg-[#F0FDF4] border border-[#BBF7D0] rounded-[14px]">
@@ -81,7 +81,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           </div>
           <!-- screenshot -->
           <div style="height:220px;overflow:hidden;">
-            <img src="assets/images/mockup_belovale.png" alt="Preview do site Belo Vale" style="width:100%;display:block;object-fit:cover;object-position:top;">
+            <img src="assets/images/mockup_belovale.png" alt="Preview do site Social Mall" style="width:100%;display:block;object-fit:cover;object-position:top;">
           </div>
         </div>
       </div>
